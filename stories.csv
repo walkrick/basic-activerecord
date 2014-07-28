@@ -4,7 +4,7 @@ CREATE DATABASE basic_activerecord;",https://www.pivotaltracker.com/story/show/7
 74337856,import the tables,pg_restore,1,"Jul 7, 2014","Aug 31, 2014",feature,1,unstarted,"Jul 2, 2014",,,Spencer Eldred,"from the terminal command line (not the psql terminal) type:
 $ createuser -s gschool
 $ psql -d basic_activerecord -a -f restore.sql -U gschool",https://www.pivotaltracker.com/story/show/74337856,
-74404320,display first 5 customers,"limit, select",1,"Jul 7, 2014","Aug 31, 2014",feature,1,unstarted,"Jul 3, 2014",,,Spencer Eldred,Write a sql query to retrieve the first 5 customers.,https://www.pivotaltracker.com/story/show/74404320,
+74404319,display first 5 customers,"limit, select",1,"Jul 7, 2014","Aug 31, 2014",feature,1,unstarted,"Jul 3, 2014",,,Spencer Eldred,Write a sql query to retrieve the first 5 customers.,https://www.pivotaltracker.com/story/show/74404320,
 74404760,display the customers by name in alphabetical order,"asc, order by, select",1,"Jul 7, 2014","Aug 31, 2014",feature,2,unstarted,"Jul 3, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/74404760,
 74407252,"display all customers by their names in reverse alphabetical order
 ","desc, order by, select",1,"Jul 7, 2014","Aug 31, 2014",feature,2,unstarted,"Jul 3, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/74407252,

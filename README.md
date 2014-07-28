@@ -47,6 +47,6 @@ nextval('orderitems_id_seq'::regclass)
 1. `createdb basic_activerecord`
 1. Import the Tracker stories in `stories.csv`
 1. Create a class called `Ecommerce`
-1. Write a test per story
+1. Write a method and test per story
 1. Get it to pass
 
