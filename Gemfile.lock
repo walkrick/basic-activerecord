@@ -31,4 +31,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activerecord (~> 4.1.4)
   gschool_database_connection
