@@ -158,3 +158,9 @@ Executing that Ruby script with `ruby lib/exercise.rb` gives you this output:
 
 Because the script called the `#to_sql`, instead of executing the query we see
 the SQL string that ActiveRecord generated.
+
+## Getting Help
+
+To see what methods are available, check out this ActiveRecord documentation:
+
+[http://guides.rubyonrails.org/active_record_querying.html](http://guides.rubyonrails.org/active_record_querying.html)
