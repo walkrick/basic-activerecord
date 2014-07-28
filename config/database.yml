@@ -1,6 +1,6 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: exercisedbruby
+  database: basic_activerecord
   username: gschool
   password:
