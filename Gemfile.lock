@@ -15,6 +15,7 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
     arel (5.0.1.20140414130214)
+    awesome_print (1.2.0)
     builder (3.2.2)
     gschool_database_connection (1.0.0)
       activerecord
@@ -32,4 +33,5 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 4.1.4)
+  awesome_print
   gschool_database_connection
