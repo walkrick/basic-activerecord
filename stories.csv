@@ -2,7 +2,6 @@ Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current St
 74337736,create a new psql database,create database,1,"Jul 7, 2014","Aug 31, 2014",feature,1,unstarted,"Jul 2, 2014",,,Spencer Eldred,"open 'psql' and type the command:
 CREATE DATABASE basic_activerecord;",https://www.pivotaltracker.com/story/show/74337736,
 74337856,import the tables,pg_restore,1,"Jul 7, 2014","Aug 31, 2014",feature,1,unstarted,"Jul 2, 2014",,,Spencer Eldred,"from the terminal command line (not the psql terminal) type:
-$ createuser -s gschool
 $ psql -d basic_activerecord -a -f restore.sql -U gschool",https://www.pivotaltracker.com/story/show/74337856,
 74404319,display first 5 customers,"limit, select",1,"Jul 7, 2014","Aug 31, 2014",feature,1,unstarted,"Jul 3, 2014",,,Spencer Eldred,Write a sql query to retrieve the first 5 customers.,https://www.pivotaltracker.com/story/show/74404320,
 74404760,display the customers by name in alphabetical order,"asc, order by, select",1,"Jul 7, 2014","Aug 31, 2014",feature,2,unstarted,"Jul 3, 2014",,,Spencer Eldred,,https://www.pivotaltracker.com/story/show/74404760,
